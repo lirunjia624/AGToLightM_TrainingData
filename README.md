@@ -1,5 +1,5 @@
 # AGToLightM_TrainingData
-All datasets in this repository are processed dataset, generated from original satellite observations and lightning measurements.No raw observational data are included
+All datasets in this repository are processed dataset, generated from original satellite observations and lightning measurements.No raw observational data are included.
 
 # Data Storage Structure Documentation
 
@@ -33,3 +33,5 @@ Data/
     ├── EVB_BandDiff_TimeDiff_1040-0855/  # Temporal difference of 1040-0855 band difference
     └── EVB_BandDiff_TimeDiff_1230-1040/  # Temporal difference of 1230-1040 band difference
 ```
+## Note
+The processed datasets provided in this repository take the East China region as a representative example.
