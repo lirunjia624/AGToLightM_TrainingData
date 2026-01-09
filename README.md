@@ -35,3 +35,4 @@ Data/
 ```
 ## Note
 The processed datasets provided in this repository take the East China region as a representative example.
+Due to file size limitations, only the full-day data from June 1, 2025 are uploaded as a representative data example.
